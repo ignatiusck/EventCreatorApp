@@ -1,7 +1,6 @@
 H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\appsettings.Development.json
 H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\appsettings.json
 H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\EventCreator.staticwebassets.runtime.json
-H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\app.db
 H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\EventCreator.exe
 H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\EventCreator.deps.json
 H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\EventCreator.runtimeconfig.json
@@ -312,3 +311,4 @@ H:\Learn\EventCreatorApp\EventCreator\obj\Debug\net7.0\refint\EventCreator.dll
 H:\Learn\EventCreatorApp\EventCreator\obj\Debug\net7.0\EventCreator.pdb
 H:\Learn\EventCreatorApp\EventCreator\obj\Debug\net7.0\EventCreator.genruntimeconfig.cache
 H:\Learn\EventCreatorApp\EventCreator\obj\Debug\net7.0\ref\EventCreator.dll
+H:\Learn\EventCreatorApp\EventCreator\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
